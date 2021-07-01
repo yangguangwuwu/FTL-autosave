@@ -1,4 +1,4 @@
-module win
+module FTL-autosave
 
 go 1.16
 
